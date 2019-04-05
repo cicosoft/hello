@@ -1,4 +1,4 @@
-codigo de la pagina html
+codigo de la pagina html  / esto para el tab2
 ---------------------------
 <ion-header>
   <ion-toolbar>
